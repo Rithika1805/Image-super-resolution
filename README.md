@@ -1,1 +1,1 @@
-# Image-super-resolution
+An image super-resolution project using the DIV2K dataset aims to enhance low-resolution images to high-resolution versions using deep learning techniques. The project involves training a convolutional neural network on the diverse DIV2K dataset, which contains high-quality images specifically designed for super-resolution tasks, to learn the mapping between low and high-resolution image pairs.
